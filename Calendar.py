@@ -1,9 +1,8 @@
 #Paul Lichtenwalner
-#plichtenwalner1@student.gsu.edu    palichtenwalner@gmail.com
-#CSC 1301   CRN 91957
+
 #Create a Calendar for an inputted month and year
 #Input a month and year (Command line input)
-#Output a correctly formatted calendar
+#Outputs a correctly formatted calendar
 
 def formatTop():
     monthLength = len(monthStr)
